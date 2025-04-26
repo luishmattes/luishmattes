@@ -1,6 +1,7 @@
 ### Hi there, my name is Luis👋
 
 - 🌱 I’m currently studying Sistemas de Informação
+- 💡 English Enthusiast, passionate about the language
 - 📫 How to reach me: www.linkedin.com/in/luis-henrique-mattes-de-souza-93286820b
 
 # 📊 GitHub Stats:
